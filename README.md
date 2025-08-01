@@ -22,9 +22,9 @@ Here's a glimpse of the application in action.
 <div align="center">
   <br>
   <h4>Key Application Screens:</h4>
-  <img align="center" alt="Medical Bot Main View" height="auto" width="100%" src="./images/medical_bot.jpg">
+  <img align="center" alt="Medical Bot Main View" height="auto" width="100%" src="./images/Gemini.png">
   <br><br>
-  <img align="center" alt="Medical Bot Conversation" height="auto" width="100%" src="./images/medical_bot_conversation.jpg">
+  <img align="center" alt="Medical Bot Conversation" height="auto" width="100%" src="./images/SC2.png">
   <br>
 </div>
 
@@ -109,7 +109,7 @@ flask run
 ```
 * The application should now be running at http://localhost:8080.
 
-###📦 Project Structure
+### 📦 Project Structure
 ```
 Medical-AI-Assistant/
 ├── server/
