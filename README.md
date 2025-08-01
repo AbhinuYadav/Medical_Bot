@@ -16,7 +16,7 @@ Here's a glimpse of the application in action.
 <h3 align="center">
   Live Demo (Please ensure the server is running locally as per instructions):
   <br>
-  Currently, run locally via `http://localhost:5000`
+  Currently, run locally via `http://localhost:8080`
 </h3>
 
 <div align="center">
@@ -72,3 +72,53 @@ Follow these instructions to set up and run the project locally on your machine.
 ```bash
 git clone [https://github.com/your-username/Medical-AI-Assistant.git](https://github.com/your-username/Medical-AI-Assistant.git)
 cd Medical-AI-Assistant
+```
+
+### 2. Set Up Environment
+Create and activate a virtual environment:
+
+```bash
+python -m venv venv
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
+```
+### 3. Install Dependencies
+Install all required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+### 4. Configure API Keys
+Create a .env file in the root directory.
+
+Add your API keys for Hugging Face and Pinecone, as well as any others you might need.
+
+Code snippet
+```bash
+HUGGINGFACEHUB_API_TOKEN=hf_xxxxxxxxxxxxxxxxxxxxxxxx
+PINECONE_API_KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+```
+
+### 5. Run the Application
+Start the Flask server:
+
+```bash
+flask run
+```
+* The application should now be running at http://localhost:8080.
+
+###📦 Project Structure
+```
+Medical-AI-Assistant/
+├── server/
+│   ├── app.py                      # Main Flask application file
+│   └── medical_bot.py              # LangChain RAG pipeline logic
+├── data/
+│   └── medical_book.txt            # Your medical knowledge base
+├── .env.example
+├── .gitignore
+├── requirements.txt
+└── README.md
+```
