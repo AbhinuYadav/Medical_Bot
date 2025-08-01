@@ -48,14 +48,14 @@ Here's a glimpse of the application in action.
 - **NLP (Natural Language Processing)**: The core field driving the application's functionality.
 
 <div margin="10px" align="center" valign="top">
-  <img alt="LangChain" height="30" width="40" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.png">
-  <img alt="Hugging Face" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg">
+  <img alt="LangChain" height="50" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/langchain-color.png">
+  <img alt="Hugging Face" height="30" width="40" src="https://w7.pngwing.com/pngs/86/980/png-transparent-hugging-face-logo-tech-companies.png">
   <img alt="Pinecone" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pinecone.svg">
-  <img alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img alt="Flask" height="60" width="40" src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo.png">
   <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="NLP" height="30" width="40" src="https://simpleicons.org/icons/natural-language-processing.svg">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="Git" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div><br>
 
