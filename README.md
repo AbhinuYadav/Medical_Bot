@@ -1,4 +1,5 @@
-# Medical AI Assistant
+ <img align="center" alt="Medical Bot Main View" height="auto" width="100%" src="./src/images/thumbnail.png">
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Medical%20AI%20Assistant"/>
 
@@ -22,9 +23,9 @@ Here's a glimpse of the application in action.
 <div align="center">
   <br>
   <h4>Key Application Screens:</h4>
-  <img align="center" alt="Medical Bot Main View" height="auto" width="100%" src="./images/Gemini.png">
+  <img align="center" alt="Medical Bot Main View" height="auto" width="100%" src="./src/images/Gemini.png">
   <br><br>
-  <img align="center" alt="Medical Bot Conversation" height="auto" width="100%" src="./images/SC2.png">
+  <img align="center" alt="Medical Bot Conversation" height="auto" width="100%" src="./src/images/SC2.jpg">
   <br>
 </div>
 
